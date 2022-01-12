@@ -44,7 +44,8 @@
 
 
 ### 做完或者正在做的事
-
+- [在gitlab管理nacos配置](http://49.234.110.190:4999/web/#/p/c6cb08227bcef28bda370bd15aeeb844)
+- [Grafana展示jira数据库生成看板](http://49.234.110.190:4999/web/#/p/5d734509fd64788c1182d9cf1fd68582)
 - [docker部署nacos单节点](http://49.234.110.190:4999/web/#/p/9e2eb60dbbe59c683a565324c1081fc1)
 - [docker部署nacos集群](http://49.234.110.190:4999/web/#/p/10f29de61eefc39c4c39af5361ca7b66)
 - [docker部署zookeeper集群](http://49.234.110.190:4999/web/#/p/0d4e4b363c941972ce2ba5447b187699)
