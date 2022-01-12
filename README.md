@@ -8,13 +8,18 @@
 
 ### 技能树
 
--  后端：
+- 后端： 熟练Java语言，有扎实的java编程功底和规范的编码习惯，了解jvm，多线程等
+   熟练Spring，SpringMVC，SpringBoot，SpringCloud， Mybatis等基础框架
+   熟悉mvc+rpc(Dubbo)+Zookeeper面向服务(SOA)开发模式，以及SpringCloud微服务的开发，nginx，jwt，分布式架构
+   熟练使用MySQL等关系型数据库，和一些SQL语句的语法及优化
+   熟练Redis、RebbitMQ、Elasticsearch、RestFul风格接口的使用
+   熟练使用Git代码管理工具，XMind等辅助工具
 
--  前端：
+- 前端：熟悉Vue、ElemenUI、BootStrap 、JavaScript、jQuery等前端框架及技术
 
--  运维：
+- 运维：熟练使用Linux常用命令、ansible远程管理工具，熟悉shell、Dockerfile脚本编写，了解简单Pathon运维脚本，熟悉docker容器的应用，VMware和MobaXterm工具的使用
 
--  架构：
+- 架构：
 
 ### 学习中
 
