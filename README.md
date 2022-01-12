@@ -47,8 +47,8 @@
 
 #### CI/CD
 
-- [在gitlab管理nacos配置](http://49.234.110.190:4999/web/#/p/c6cb08227bcef28bda370bd15aeeb844)
-- [Grafana展示jira数据库生成看板](http://49.234.110.190:4999/web/#/p/5d734509fd64788c1182d9cf1fd68582)
+- [在gitlab管理nacos配置(同事维护)](http://49.234.110.190:4999/web/#/p/c6cb08227bcef28bda370bd15aeeb844)
+- [Grafana展示jira数据库生成看板(同事维护)](http://49.234.110.190:4999/web/#/p/5d734509fd64788c1182d9cf1fd68582)
 
 #### 部署中间件
 
