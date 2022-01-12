@@ -17,7 +17,7 @@
 
 - 前端：熟悉Vue、ElemenUI、BootStrap 、JavaScript、jQuery等前端框架及技术
 
-- 运维：熟练使用Linux常用命令、ansible远程管理工具，熟悉shell、Dockerfile脚本编写，了解简单Pathon运维脚本，熟悉docker容器的应用，VMware和MobaXterm工具的使用
+- 运维：熟练使用Linux常用命令、ansible远程管理工具，熟悉shell、Dockerfile脚本编写，了解简单Python运维脚本，熟悉docker容器的应用，VMware和MobaXterm工具的使用
 
 - 架构：
 
