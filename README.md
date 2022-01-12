@@ -8,7 +8,7 @@
 
 ### 技能树
 
-- 后端： 熟练Java语言，有扎实的java编程功底和规范的编码习惯，了解jvm，多线程等
+- 后端： 熟练使用Java语言，有扎实的java编程功底和规范的编码习惯，了解jvm，多线程等
    熟练Spring，SpringMVC，SpringBoot，SpringCloud， Mybatis等基础框架
    熟悉mvc+rpc(Dubbo)+Zookeeper面向服务(SOA)开发模式，以及SpringCloud微服务的开发，nginx，jwt，分布式架构
    熟练使用MySQL等关系型数据库，和一些SQL语句的语法及优化
