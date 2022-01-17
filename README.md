@@ -62,3 +62,5 @@
 - [使用vue脚手架创建新项目](http://49.234.110.190:4999/web/#/p/10ebd30fcddb11a8e3396e13406c906c)
 
 ### 好站推荐
+
+![Alt](https://repobeats.axiom.co/api/embed/0cb915933487597dc4663fe2f1bd055b260d1cff.svg "Repobeats analytics image")
