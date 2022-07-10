@@ -26,11 +26,6 @@
 - 熟悉shell、Dockerfile脚本编写，了解简单Python运维脚本
 - 熟悉VMware和MobaXterm工具的使用
 
-#### 架构：
-
-- 了解电商项目
-- 了解保险项目
-
 ### 学习中
 
 ### 看完或者正在看的书
@@ -41,30 +36,3 @@
 - 《生命的意义》
 - 《中国人的婚姻、婚俗与xx》
 - 《Effective Java》
-
-
-### 做完或者正在做的事
-
-#### CI/CD
-........
-- [在gitlab管理nacos配置](http://49.234.110.190:4999/web/#/p/c6cb08227bcef28bda370bd15aeeb844)
-- [Grafana展示jira数据库生成看板](http://49.234.110.190:4999/web/#/p/5d734509fd64788c1182d9cf1fd68582)
-
-#### 部署中间件
-
-- [docker部署nacos单节点](http://49.234.110.190:4999/web/#/p/9e2eb60dbbe59c683a565324c1081fc1)
-- [docker部署nacos集群](http://49.234.110.190:4999/web/#/p/10f29de61eefc39c4c39af5361ca7b66)
-- [docker部署zookeeper集群](http://49.234.110.190:4999/web/#/p/0d4e4b363c941972ce2ba5447b187699)
-- [ELK业务日志收集系统](http://49.234.110.190:4999/web/#/p/6d954b7042853ffa5b0c93b3e2700f48)
-
-#### wild开源项目
-
-- [使用vue脚手架创建新项目](http://49.234.110.190:4999/web/#/p/10ebd30fcddb11a8e3396e13406c906c)
-
-### 好站推荐
-
-- [快速连接](http://49.234.110.190:4999/web/#/p/131197922a613f123a1a5bbe3cac25f0)
-
-### 提交记录
-
-![Alt](https://repobeats.axiom.co/api/embed/0cb915933487597dc4663fe2f1bd055b260d1cff.svg "Repobeats analytics image")
